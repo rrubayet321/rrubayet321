@@ -6,14 +6,13 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubayet-hassan2)
 [![Email](https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubayet.hassan.rupom@g.bracu.ac.bd)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sirrubayet)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubayeet.vercel.app)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rrubayet321&style=for-the-badge&color=blue)
-![Followers](https://img.shields.io/github/followers/rrubayet321?style=for-the-badge&color=lightgrey&logo=github)
-![Stars](https://img.shields.io/github/stars/rrubayet321?style=for-the-badge&color=yellow&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=rrubayet321&style=for-the-badge&color=0A66C2)
+![Followers](https://img.shields.io/github/followers/rrubayet321?style=for-the-badge&color=555555&logo=github)
+![Stars](https://img.shields.io/github/stars/rrubayet321?style=for-the-badge&color=0A66C2&logo=github)
 
 </div>
 
@@ -21,11 +20,13 @@
 
 <div align="center">
 
-## 🚀 Open Source Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=16&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=A+book+must+be+the+axe+for+the+frozen+sea+within+us;The+meaning+of+life+is+that+it+stops;Paths+are+made+by+walking" alt="Typing SVG"/>
 
 </div>
 
-### 👨‍💻 About Me
+---
+
+### About Me
 
 <div align="center">
 
@@ -34,15 +35,15 @@ Currently developing a **Transformer-based framework** for medical imaging diagn
 
 **Research Interests:** Medical AI · Explainable AI · NLP · Computer Vision · Agentic AI Systems
 
-📍 Dhaka, Bangladesh  |  🎓 Expected Graduation: January 2026  |  💼 Seeking Remote Internships
+Dhaka, Bangladesh  |  Expected Graduation: January 2026  |  Seeking Remote Internships
 
-🌐 **Languages:** English (Fluent) · Bangla (Native) · Hindi & Urdu (Conversational)
+**Languages:** English (Fluent) · Bangla (Native) · Hindi & Urdu (Conversational)
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -97,30 +98,18 @@ Currently developing a **Transformer-based framework** for medical imaging diagn
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rrubayet321&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&bg_color=FFFFFF&title_color=000000&icon_color=0A66C2&text_color=333333" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rrubayet321&theme=default&hide_border=true&background=FFFFFF&stroke=CCCCCC&ring=0A66C2&fire=0A66C2&currStreakLabel=333333&sideLabels=333333&dates=666666&sideNums=333333&currStreakNum=000000" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrubayet321&theme=default&hide_border=true&layout=compact&bg_color=FFFFFF&title_color=000000&text_color=333333&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rrubayet321&theme=github-light&hide_border=true&bg_color=FFFFFF&color=000000&line=0A66C2&point=0A66C2" alt="Contribution Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rrubayet321&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=0A66C2&icon_color=0A66C2&text_color=8B8B8B&border_radius=10" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rrubayet321&theme=transparent&hide_border=true&background=00000000&stroke=333333&ring=0A66C2&fire=0A66C2&currStreakLabel=8B8B8B&sideLabels=8B8B8B&dates=8B8B8B&sideNums=0A66C2&currStreakNum=0A66C2&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
----
-
-### 🏆 Achievements & Highlights
-
 <div align="center">
 
-🧠 Developing Transformer Architecture for Medical Imaging  
-🔐 Cybersecurity Intern @ Prodigy InfoTech  
-🎓 Expected Graduation: January 2026  
-🥉 Third Place - Mastermind Business Olympiad (2021)  
-🎯 Participant - AgentX: AI Prompting Competition (2025)  
-💻 625+ Total Commits (Last Year)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrubayet321&theme=transparent&hide_border=true&layout=compact&bg_color=00000000&title_color=0A66C2&text_color=8B8B8B&langs_count=8&border_radius=10" alt="Top Languages"/>
 
 </div>
 
@@ -128,13 +117,13 @@ Currently developing a **Transformer-based framework** for medical imaging diagn
 
 <div align="center">
 
-### 💬 Let's Connect & Collaborate!
+### Let's Connect
 
 **Open to remote internship opportunities in Software Engineering & AI/ML**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubayet-hassan2)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubayet.hassan.rupom@g.bracu.ac.bd)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubayeet.vercel.app)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,24&height=100&section=footer"/>
 
