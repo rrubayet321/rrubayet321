@@ -1,20 +1,74 @@
-# 💫 About Me:
-Computer Science student at BRAC University with expertise in Python, JavaScript, and machine learning.<br><br>Passionate about leveraging technology for AI solutions, web development, data science, and innovative problem-solving. Always eager to learn and collaborate on impactful projects.
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sirrubayet) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sirrubayet) 
+# 👋 Hi, I'm Rubayet Hassan Rupom
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+### Computer Science Student @ BRAC University | AI/ML Researcher
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rrubayet321&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rrubayet321&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rrubayet321&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rubayet.hassan.rupom@g.bracu.ac.bd"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://discord.gg/sirrubayet"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rrubayet321&icon=6&color=4)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🎯 About
+
+Final-year CS student passionate about **AI/ML** and building intelligent systems. Currently working on my thesis involving **Transformer-based frameworks** for medical imaging diagnostics.
+
+**Research Interests:** Medical AI · Explainable AI · NLP · Computer Vision · Agentic AI Systems
+
+**Status:** 🔍 Open to remote internships in Software Engineering & AI/ML
+
+---
+
+## 🛠️ Tech Stack
+```text
+Languages       Python · JavaScript · C · SQL
+AI/ML          TensorFlow · PyTorch · Keras · scikit-learn · Hugging Face
+Data Science    pandas · NumPy · Matplotlib · Seaborn · OpenCV
+Web Dev         Django · Flask · FastAPI · React.js · REST APIs
+Databases       MySQL · PostgreSQL · MongoDB
+Tools           Git · Docker · Linux · Jupyter · VS Code
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rrubayet321&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrubayet321&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rrubayet321&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+- 🧠 Developing Transformer architecture for neurodegenerative disease assessment
+- 🔐 Cybersecurity Intern @ Prodigy InfoTech
+- 🎓 Expected Graduation: January 2026
+- 🌍 Languages: English (Fluent) · Bangla (Native) · Hindi & Urdu (Conversational)
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect
+
+**Open to collaborations and opportunities in AI/ML and Software Engineering**
+
+![Profile Views](https://komarev.com/ghpvc/?username=rrubayet321&color=58a6ff&style=flat-square&label=Profile+Views)
+
+</div>
