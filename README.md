@@ -1,25 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rubayet%20Hassan%20Rupom&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Student%20|%20AI/ML%20Researcher&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,24&height=180&section=header&text=Rubayet%20Hassan%20Rupom&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Student%20|%20AI/ML%20Researcher&descAlignY=51&descAlign=50"/>
 
 </div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubayet.hassan.rupom@g.bracu.ac.bd)
+[![Email](https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubayet.hassan.rupom@g.bracu.ac.bd)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sirrubayet)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rrubayet321&style=for-the-badge&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/rrubayet321?style=for-the-badge&color=blue&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=rrubayet321&style=for-the-badge&color=blue)
+![Followers](https://img.shields.io/github/followers/rrubayet321?style=for-the-badge&color=lightgrey&logo=github)
 ![Stars](https://img.shields.io/github/stars/rrubayet321?style=for-the-badge&color=yellow&logo=github)
 
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
 
@@ -28,31 +26,19 @@
 </div>
 
 ### 👨‍💻 About Me
-```yaml
-name: Rubayet Hassan Rupom
-located_in: Dhaka, Bangladesh
-current_role: Final-Year CS Student @ BRAC University
-education: B.Sc. in Computer Science (Expected: January 2026)
 
-research_interests:
-  - Medical AI & Healthcare Technology
-  - Explainable AI (XAI)
-  - Natural Language Processing
-  - Computer Vision
-  - Agentic AI Systems
+<div align="center">
 
-current_focus:
-  - Developing Transformer-based framework for neurodegenerative disease assessment
-  - Multi-modal medical imaging diagnostics (MRI, PET, CT scans)
-  - Building intelligent systems with real-world impact
+Final-year **Computer Science student** at **BRAC University**, passionate about AI/ML and building intelligent systems.  
+Currently developing a **Transformer-based framework** for medical imaging diagnostics.
 
-seeking: Remote Software Engineering & AI/ML Internships
+**Research Interests:** Medical AI · Explainable AI · NLP · Computer Vision · Agentic AI Systems
 
-languages:
-  - English: Fluent
-  - Bangla: Native
-  - Hindi & Urdu: Conversational
-```
+📍 Dhaka, Bangladesh  |  🎓 Expected Graduation: January 2026  |  💼 Seeking Remote Internships
+
+🌐 **Languages:** English (Fluent) · Bangla (Native) · Hindi & Urdu (Conversational)
+
+</div>
 
 ---
 
@@ -115,11 +101,11 @@ languages:
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rrubayet321&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rrubayet321&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rrubayet321&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&bg_color=FFFFFF&title_color=000000&icon_color=0A66C2&text_color=333333" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rrubayet321&theme=default&hide_border=true&background=FFFFFF&stroke=CCCCCC&ring=0A66C2&fire=0A66C2&currStreakLabel=333333&sideLabels=333333&dates=666666&sideNums=333333&currStreakNum=000000" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrubayet321&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rrubayet321&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrubayet321&theme=default&hide_border=true&layout=compact&bg_color=FFFFFF&title_color=000000&text_color=333333&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rrubayet321&theme=github-light&hide_border=true&bg_color=FFFFFF&color=000000&line=0A66C2&point=0A66C2" alt="Contribution Graph"/>
 
 </div>
 
@@ -128,20 +114,17 @@ languages:
 ### 🏆 Achievements & Highlights
 
 <div align="center">
-```text
-🧠  Developing Transformer Architecture for Medical Imaging
-🔐  Cybersecurity Intern @ Prodigy InfoTech
-🎓  Expected Graduation: January 2026
-🥉  Third Place - Mastermind Business Olympiad (2021)
-🎯  Participant - AgentX: AI Prompting Competition (2025)
-💻  625+ Total Commits (Last Year)
-```
+
+🧠 Developing Transformer Architecture for Medical Imaging  
+🔐 Cybersecurity Intern @ Prodigy InfoTech  
+🎓 Expected Graduation: January 2026  
+🥉 Third Place - Mastermind Business Olympiad (2021)  
+🎯 Participant - AgentX: AI Prompting Competition (2025)  
+💻 625+ Total Commits (Last Year)
 
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
 
@@ -150,9 +133,9 @@ languages:
 **Open to remote internship opportunities in Software Engineering & AI/ML**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubayet.hassan.rupom@g.bracu.ac.bd)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubayet.hassan.rupom@g.bracu.ac.bd)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,24&height=100&section=footer"/>
 
 </div>
