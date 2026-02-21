@@ -165,30 +165,18 @@ A full-stack community platform for meaningful conversation, built with modern w
 
 ---
 
-## � GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rrubayet321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&title_color=A855F7&icon_color=A855F7" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rrubayet321&theme=tokyonight&hide_border=true&border_radius=12&ring=A855F7&fire=ff9944&currStreakLabel=A855F7" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=rrubayet321&theme=tokyonight&hide_border=true&border_radius=12&ring=A855F7&fire=ff9944&currStreakLabel=A855F7" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrubayet321&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&border_radius=12&title_color=A855F7&cache_seconds=3600" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrubayet321&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&border_radius=12&title_color=A855F7" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rrubayet321&theme=tokyo-night&hide_border=true&radius=12&area=true&area_color=A855F7" alt="Contribution Graph"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rrubayet321&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rrubayet321&theme=tokyo-night&hide_border=true&radius=12&area=true" alt="Contribution Graph"/>
 
 </div>
 
