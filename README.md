@@ -12,11 +12,6 @@
 - Ask me about Python / PyTorch / NLP / LLMs / React
 - Open to remote AI/ML & Full-Stack roles
 
-### Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubayet-hassan2)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rrubayet321@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Website-0f0f0f?style=flat&logo=vercel&logoColor=white)](https://rubayeet.vercel.app)
 
 ### Languages and Tools
 
@@ -35,4 +30,12 @@
 <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/></a>
 <a href="https://www.kernel.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux"/></a>
 </p>
+
+---
+
+<div align="center">
+
+*If it doesn't ship, it doesn't count.*
+
+</div>
 
