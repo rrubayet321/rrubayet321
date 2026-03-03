@@ -6,8 +6,9 @@
 
 ### As a developer
 
-- I'm currently working on AI/ML and full-stack projects
-- Built and shipped [Ummah Speaks](https://github.com/rrubayet321/Ummah-speaks), [Hybrid GAN-VAE Dialogue AI](https://github.com/rrubayet321/Hybrid-Gan-Vae-Dialogue-Generation-Model), and more
+- I treat every project like it needs to ship — not sit in a notebook
+- I go from research papers to working, deployed systems
+- Focused on AI/ML and full-stack engineering, with a bias toward building over theorizing
 - Ask me about Python / PyTorch / NLP / LLMs / React
 - Open to remote AI/ML & Full-Stack roles
 
@@ -35,8 +36,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux"/>
 </p>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rrubayet321&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=A855F7&icon_color=A855F7&cache_seconds=3600" alt="GitHub Stats" width="55%"/>
-
-</div>
