@@ -53,11 +53,5 @@ Full-stack community platform for meaningful conversation built with TypeScript,
 
 ---
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rrubayet321&layout=compact&theme=default&hide_border=true&langs_count=6)
-
----
-
 Open to **remote roles, research collaborations, and internships.**
 Reach me at [rubayet.hassan.rupom@g.bracu.ac.bd](mailto:rubayet.hassan.rupom@g.bracu.ac.bd) or connect on [LinkedIn](https://www.linkedin.com/in/rubayet-hassan2).
