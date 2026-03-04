@@ -9,7 +9,7 @@
 - I treat every project like it needs to ship — not sit in a notebook
 - I go from research papers to working, deployed systems
 - Focused on AI/ML and full-stack engineering, with a bias toward building over theorizing
-- Ask me about Python / PyTorch / NLP / LLMs / React
+- Ask me about Python / Automation / Product / Agentic Systems 
 - Open to remote AI/ML & Full-Stack roles
 
 
